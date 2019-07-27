@@ -1,6 +1,8 @@
 <h1 align="center">Terraform Na Pratica - #TNP </h1>
 
-### Um curso de terraform totalmente em português brasileiro 🇧🇷
+<h2 align="center">Um curso de terraform totalmente em português brasileiro 🇧🇷</h2>
+
+<p align="center"> O primeiro modulo esta sendo gravado em video e postado no <a href="https://www.youtube.com/playlist?list=PLVGIivuHGmJpyciRgdZ-x4avdzlsdCTmH">Youtube</a>.</p>
 
 > **Autor: [Igor Souza](https://twitter.com/igordcsouza)**
 
@@ -16,7 +18,7 @@
 1. [Como submeter exercicios no Github](modulos/modulo_00/tnp_02.md)
 1. [Como sugerir melhorias para o curso?](modulos/modulo_00/tnp_03.md)
 
-### Modulo 1
+### Modulo 1  [ [Youtube](https://www.youtube.com/playlist?list=PLVGIivuHGmJpyciRgdZ-x4avdzlsdCTmH) ]
 1. [TNP 1.1  - Apresentacao do Modulo!](modulos/modulo_01/tnp_01.md)
 1. [TNP 1.2  - Executando o Terraform com Docker](modulos/modulo_01/tnp_02.md)
 1. [TNP 1.3  - Comecando a brincadeira](modulos/modulo_01/tnp_03.md)
