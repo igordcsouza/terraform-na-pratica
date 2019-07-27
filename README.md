@@ -11,6 +11,11 @@
 
 ## 📖 Sumário
 
+### Modulo 0
+1. [Apresentacao do Curso](modulos/modulo_00/tnp_01.md)
+1. [Como submeter exercicios no Github](modulos/modulo_00/tnp_02.md)
+1. [Como sugerir melhorias para o curso?](modulos/modulo_00/tnp_03.md)
+
 ### Modulo 1
 1. [TNP 1.2 - Executando o Terraform com Docker](modulos/modulo_01/tnp_02.md)
 1. [TNP 1.3 - Comecando a brincadeira](modulos/modulo_01/tnp_03.md)
