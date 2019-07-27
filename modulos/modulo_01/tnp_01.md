@@ -11,6 +11,7 @@ Vamos as perguntas:
 1. Qual vai ser nosso projeto?
 1. Por que vamos utilizar a DigitalOcean?
 1. A DigitalOcean deu algum cupon de desconto?
+1. Criando uma maquina zerada com VirtualBox + Vagrant!
 
 
 ---
