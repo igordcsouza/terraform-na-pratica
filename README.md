@@ -17,10 +17,15 @@
 1. [Como sugerir melhorias para o curso?](modulos/modulo_00/tnp_03.md)
 
 ### Modulo 1
-1. [TNP 1.2 - Executando o Terraform com Docker](modulos/modulo_01/tnp_02.md)
-1. [TNP 1.3 - Comecando a brincadeira](modulos/modulo_01/tnp_03.md)
-1. [TNP 1.4 - Arquivo de Estado! Amor ou Odio?](modulos/modulo_01/tnp_04.md)
-1. [TNP 1.5 - Utilizando os provisionadores!](modulos/modulo_01/tnp_05.md)
+1. [TNP 1.2  - Executando o Terraform com Docker](modulos/modulo_01/tnp_02.md)
+1. [TNP 1.3  - Comecando a brincadeira](modulos/modulo_01/tnp_03.md)
+1. [TNP 1.4  - Arquivo de Estado! Amor ou Odio?](modulos/modulo_01/tnp_04.md)
+1. [TNP 1.5  - Utilizando os provisionadores!](modulos/modulo_01/tnp_05.md)
+1. [TNP 1.6  - Integrando recursos!](modulos/modulo_01/tnp_06.md)
+1. [TNP 1.7  - Deploy do nosso servico!](modulos/modulo_01/tnp_07.md)
+1. [TNP 1.8  - Criando um loadbalance!](modulos/modulo_01/tnp_08.md)
+1. [TNP 1.9  - Utilizando DNS!](modulos/modulo_01/tnp_09.md)
+1. [TNP 1.10 - Criando regra de firewal!](modulos/modulo_01/tnp_10.md)
 1. [Exercicios](modulos/modulo_01/exercicio/descricao.md) 
 1. [Extras](modulos/modulo_01/extras.md)
 
