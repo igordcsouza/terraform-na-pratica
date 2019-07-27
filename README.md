@@ -19,6 +19,8 @@
 ### Modulo 1
 1. [TNP 1.2 - Executando o Terraform com Docker](modulos/modulo_01/tnp_02.md)
 1. [TNP 1.3 - Comecando a brincadeira](modulos/modulo_01/tnp_03.md)
+1. [TNP 1.4 - Arquivo de Estado! Amor ou Odio?](modulos/modulo_01/tnp_04.md)
+1. [TNP 1.5 - Utilizando os provisionadores!](modulos/modulo_01/tnp_05.md)
 1. [Exercicios](modulos/modulo_01/exercicio/descricao.md) 
 1. [Extras](modulos/modulo_01/extras.md)
 
