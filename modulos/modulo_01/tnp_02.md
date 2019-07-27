@@ -37,6 +37,9 @@ Explicação sobre o parâmetro `--rm`
  echo 'alias terraform="docker run --rm -it hashicorp/terraform"' >> ~/.bashrc
 ```
 
+
+
+
 ---
 
 [Inicio](/README.md)
