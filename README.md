@@ -72,6 +72,5 @@ Links
 [telegram-badge]:https://img.shields.io/static/v1?label=Telegram&message=Terraform%20Community%20Course&color=blue&style=for-the-badge
 [telegram-link]:https://t.me/joinchat/CUkknxSgMV4HdAfz12O-nQ 
 [twitter-badge]:https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=twitter
-[twitter-intent]:https://twitter.com/intent/tweet?url=https://github.com/igordcsouza/terraform-na-pratica&via=igordcsouza&text=Um%20curso%20de%20terraform%20totalmente%20em%20🇧🇷&hashtags=
- TNP,TerraformNaPratica,curso,terraform,free
+[twitter-intent]:https://twitter.com/intent/tweet?url=https://github.com/igordcsouza/terraform-na-pratica&via=igordcsouza&text=Um%20curso%20de%20terraform%20totalmente%20em%20🇧🇷&hashtags=TNP,TerraformNaPratica,curso,terraform,free
 
