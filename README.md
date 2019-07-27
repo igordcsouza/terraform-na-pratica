@@ -5,8 +5,7 @@
 > **Autor: [Igor Souza](https://twitter.com/igordcsouza)**
 
 ---
-
-![prs-badge](https://img.shields.io/static/v1?label=%E2%9D%A4%20Pull%20Requests&message=S%C3%A3o%20Bem%20Vindos!&color=brightgreen&style=for-the-badge) &nbsp; [![Telegram][telegram-badge]][telegram-link] &nbsp; [![Twitter][twitter-badge]][twitter-intent]  
+[![prs-badge]][prs-link] &nbsp; [![Telegram][telegram-badge]][telegram-link] &nbsp; [![Twitter][twitter-badge]][twitter-intent]  
 
 ---
 
@@ -52,6 +51,8 @@ Veja o arquivo [CONTRIBUTORS.md](CONTRIBUTORS.md)
 <!--
 Links 
 -->
+[prs-badge]:https://img.shields.io/static/v1?label=%E2%9D%A4%20Pull%20Requests&message=S%C3%A3o%20Bem%20Vindos!&color=brightgreen&style=for-the-badge
+[prs-link]:https://github.com/igordcsouza/terraform-na-pratica/pulls
 [telegram-badge]:https://img.shields.io/static/v1?label=Telegram&message=Terraform%20Community%20Course&color=blue&style=for-the-badge
 [telegram-link]:https://telegram.org 
 [twitter-badge]:https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=twitter
