@@ -1,0 +1,27 @@
+VAGRANTFILE_API_VERSION = "2"
+BOX_MEM = ENV['BOX_MEM'] || "2048"
+BOX_NAME =  ENV['BOX_NAME'] || "centos/7"
+CLUSTER_HOSTS = ENV['CLUSTER_HOSTS'] || "vagrant_hosts"
+
+Vagrant.require_version ">= 1.5.0"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+
+  config.vm.define :seiya do |seiya_config|
+    seiya_config.vm.box = BOX_NAME
+    seiya_config.vm.network :private_network, ip: "10.1.42.70"
+    seiya_config.vm.hostname = "seiya.local"
+    seiya_config.ssh.forward_agent = true
+    seiya_config.vm.provider "virtualbox" do |v|
+      v.name = "hashicorp-lab"
+      v.customize ["modifyvm", :id, "--memory", BOX_MEM]
+      v.customize ["modifyvm", :id, "--ioapic", "on"]
+      v.customize ["modifyvm", :id, "--cpus", "2"]
+      v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
+      v.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
+    end
+    seiya_config.vm.provision :hosts do |provisioner|
+        provisioner.add_host '10.1.42.70', ['seiya.local']
+    end
+  end
+end
