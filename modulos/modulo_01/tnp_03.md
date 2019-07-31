@@ -12,7 +12,7 @@ Tambem falamos rapidamente sober o arquivo de estado.
 
 ``vim carro.tf``
 
-```
+``` hcl
 provider "digital_ocean"{
 
 }
@@ -22,7 +22,7 @@ provider "digital_ocean"{
 
 ``vim ~/.bashrc``
 
-```
+``` bash
 alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -it hashicorp/terraform"
 ```
 
@@ -34,7 +34,7 @@ alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -it hashicorp/terrafor
 
 ``vim main.tf``
 
-```
+``` hcl
     provider "digitalocean" {
         token = ""
     }
@@ -44,7 +44,7 @@ alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -it hashicorp/terrafor
 
 ``vim main.tf``
 
-```
+``` hcl
 provider "digitalocean" {
     token = ""
 }
@@ -67,7 +67,7 @@ resource "digitalocean_droplet" "web" {
 
 ``vim main.tf``
 
-```
+``` hcl
 variable "do_token" {
     default = ""
 }
@@ -88,7 +88,7 @@ resource "digitalocean_droplet" "web" {
 
 ``vim main.tf``
 
-```
+``` hcl
 variable "do_token" {}
 
 provider "digitalocean" {
@@ -105,7 +105,7 @@ resource "digitalocean_droplet" "web" {
 
 ``vim ~/.bashrc``
 
-```
+``` bash
 alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -e TF_VAR_do_token="" -it hashicorp/terraform"
 ```
 
@@ -117,7 +117,7 @@ alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -e TF_VAR_do_token="" 
 
 ``vim ~/.bashrc``
 
-```
+``` bash
 export DIGITALOCEAN_TOKEN=""
 
 alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -e DIGITALOCEAN_TOKEN=$DIGITALOCEAN_TOKEN -it hashicorp/terraform"
@@ -128,7 +128,7 @@ alias terraform="docker run --rm -v $(pwd):/app/ -w /app/ -e DIGITALOCEAN_TOKEN=
 
 ``vim main.tf``
 
-```
+``` hcl
 provider "digitalocean" {}
 
 resource "digitalocean_droplet" "web" {
