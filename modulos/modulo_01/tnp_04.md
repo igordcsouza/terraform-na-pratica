@@ -10,9 +10,12 @@ Nesse video vamos entender um pouco como ela pode ser utilizada e ate criarmos a
 
 1. O que e o arquivo de estado?
 1. Alguns problemas
+    * Se voce perder o arquivo, vai precisar importar os recursos.
+    * Multiplos usuarios podem acabar alterando o arquivo ao mesmo tempo.
+    * Precisa compartilhar com outras pessoas.
+    * Armazena senhas passadas para execucao. 
 1. Importando recursos
 1. Arquivo remoto (https://app.terraform.io)
-1. Workspaces
 1. Travando o arquivo.
 1. Dados Sensiveis
 
