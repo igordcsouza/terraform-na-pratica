@@ -14,14 +14,14 @@
 ## 📖 Sumário
 
 ### Módulo 0
-1. [Apresentação do Curso](modulos/modulo_00/tnp_01.md)
-1. [Como submeter exercícios no Github](modulos/modulo_00/tnp_02.md)
+1. [Apresentação do Curso.](modulos/modulo_00/tnp_01.md)
+1. [Como submeter exercícios no Github?](modulos/modulo_00/tnp_02.md)
 1. [Como sugerir melhorias para o curso?](modulos/modulo_00/tnp_03.md)
 
 ### Módulo 1  [ [Youtube](https://www.youtube.com/playlist?list=PLVGIivuHGmJpyciRgdZ-x4avdzlsdCTmH) ]
-1. [TNP 1.1  - Apresentação do Módulo!](modulos/modulo_01/tnp_01.md)
-1. [TNP 1.2  - Executando o Terraform com Docker](modulos/modulo_01/tnp_02.md)
-1. [TNP 1.3  - Começando a brincadeira](modulos/modulo_01/tnp_03.md)
+1. [TNP 1.1  - Apresentação do Módulo.](modulos/modulo_01/tnp_01.md)
+1. [TNP 1.2  - Executando o Terraform com Docker.](modulos/modulo_01/tnp_02.md)
+1. [TNP 1.3  - Começando a brincadeira.](modulos/modulo_01/tnp_03.md)
 1. [TNP 1.4  - Arquivo de Estado! Amor ou Ódio?](modulos/modulo_01/tnp_04.md)
 1. [TNP 1.5  - Utilizando os provisionadores!](modulos/modulo_01/tnp_05.md)
 1. [TNP 1.6  - Integrando recursos!](modulos/modulo_01/tnp_06.md)
