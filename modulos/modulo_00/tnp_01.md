@@ -21,4 +21,4 @@ Vamos as perguntas:
 ---
 [Próximo Capítulo](/modulos/modulo_00/tnp_02.md)
 
-[Inicio](/README.md)
+[Início](/README.md)
