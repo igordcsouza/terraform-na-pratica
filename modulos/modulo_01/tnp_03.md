@@ -1,9 +1,9 @@
-# TNP 1.3 - Comecando a brincadeira
+# TNP 1.3 - Começando a brincadeira
 
-Nesse video vamos conhecer os principais comandos do terraform (`terraform init, terraform plan, terraform apply e terraform destroy`) e entender um pouco de como funcionam as variaveis.
-Tambem falamos rapidamente sober o arquivo de estado.
+Nesse vídeo vamos conhecer os principais comandos do Terraform (`terraform init, terraform plan, terraform apply e terraform destroy`) e entender um pouco de como funcionam as variáveis.
+Também falaremos rapidamente sobre o arquivo de estado.
 
-🎥 [TNP 1.3 - Comecando a brincadeira](https://www.youtube.com/watch?v=1HhoFVtoxlU)
+🎥 [TNP 1.3 - Começando a brincadeira](https://www.youtube.com/watch?v=1HhoFVtoxlU)
 
 
 ``mkdir terraform_digital_ocean``
