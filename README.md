@@ -28,7 +28,7 @@
 1. [TNP 1.7  - Deploy do nosso serviço!](modulos/modulo_01/tnp_07.md)
 1. [TNP 1.8  - Criando um loadbalance!](modulos/modulo_01/tnp_08.md)
 1. [TNP 1.9  - Utilizando DNS!](modulos/modulo_01/tnp_09.md)
-1. [TNP 1.10 - Criando regra de firewal!](modulos/modulo_01/tnp_10.md)
+1. [TNP 1.10 - Criando regra de firewall!](modulos/modulo_01/tnp_10.md)
 1. [Exercícios](modulos/modulo_01/exercicio/descricao.md) 
 1. [Extras](modulos/modulo_01/extras.md)
 
