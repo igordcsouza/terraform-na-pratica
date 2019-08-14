@@ -1,4 +1,4 @@
-# TNP 0.1 - Apresentacao do Curso!
+# TNP 0.1 - Apresentação do Curso!
 
 Esse é o primeiro vídeo do primeiro módulo então deixa eu aproveitar para explicar algumas coisas e te contar um segredinho!
 
