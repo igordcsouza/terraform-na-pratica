@@ -2,4 +2,4 @@
 
 ---
 
-[Inicio](/README.md)
+[Início](/README.md)
