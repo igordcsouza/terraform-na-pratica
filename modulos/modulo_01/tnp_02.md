@@ -25,6 +25,9 @@ cat ~/.bashrc
 terraform --version
 source ~/.bashrc
 terraform --version
+echo 'alias terraform-old="docker run --rm -it hashicorp/terraform:0.11.14"' >> ~/.bashrc
+source ~/.bashrc
+terraform-old --version
 ```
 
 Explicação sobre o parâmetro `--rm` 
