@@ -10,8 +10,11 @@ Nesse vídeo vamos entender um pouco como ela pode ser utilizada e até criaremo
 
 1. O que é `workspaces`?
 1. Como funciona?
+1. Atualizando codigo para utilizar workspaces.
+1. Boas praticas.
 1. Migrando dados entre `workspaces`
-    * Criei meu ambiente de staging no `workspace` padrão e quero utilizar o padrão como produção. Como se faz?
+    * Criei meu ambiente de staging no `workspace` padrão e quero utilizar o padrão como produção. Como fazer sem destruir a infra existente?
+    * [Texto em ingles](https://dev.to/igordcsouza_87/migrating-resources-from-the-default-workspace-to-a-new-one-3ojc)
 1. Utilizando na prática
 
 ---
