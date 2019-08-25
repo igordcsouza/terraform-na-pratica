@@ -25,7 +25,9 @@ Vamos as perguntas:
 1. A DigitalOcean patrocina o curso?
     * Vamos enviar um tweet pedindo? ("@digitalocean help us to learn Terraform! Please be the first sponsor of `terraform-na-pratica`. cc @igordcsouza" 
     * Vamos aplicar para o [Write for Donations](https://www.digitalocean.com/write-for-donations/) e tentar ganhar os $300 pra investir nos módulos do curso e ajudar algum outro projeto.
-1. Criando uma máquina zerada com VirtualBox + Vagrant no Linux.
+1. Nosso ambiente de trabalho
+    * Criando uma máquina zerada com VirtualBox + Vagrant no Linux.
+    * [Acesse aqui](/modulos/modulo_01/workstation/Vagrantfile)
 
 
 ---
