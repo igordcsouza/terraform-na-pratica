@@ -1,0 +1,27 @@
+ANSIBLE_PLAYBOOK = ENV['ANSIBLE_PLAYBOOK'] || "site.yml"
+VAGRANTFILE_API_VERSION = "2"
+BOX_MEM = ENV['BOX_MEM'] || "2048"
+BOX_NAME =  ENV['BOX_NAME'] || "centos/7"
+
+Vagrant.require_version ">= 1.5.0"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+
+  config.vm.define :tnp do |tnp_config|
+    tnp_config.vm.box = BOX_NAME
+    tnp_config.vm.network :private_network, ip: "10.1.42.70"
+    tnp_config.vm.hostname = "tnp.local"
+    tnp_config.ssh.forward_agent = true
+    tnp_config.vm.provider "virtualbox" do |v|
+      v.name = "tnp"
+      v.customize ["modifyvm", :id, "--memory", BOX_MEM]
+      v.customize ["modifyvm", :id, "--ioapic", "on"]
+      v.customize ["modifyvm", :id, "--cpus", "2"]
+      v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
+      v.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
+    end
+    tnp_config.vm.provision :hosts do |provisioner|
+        provisioner.add_host '10.1.42.70', ['tnp.local']
+    end
+  end
+end
