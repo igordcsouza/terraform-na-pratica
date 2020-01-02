@@ -2,3 +2,4 @@ extras/lab/.vagrant/*
 modulos/modulo_01/workstation/.vagrant/*
 .vagrant/*
 .vscode/*
+./extras/droplet/.terraform*
