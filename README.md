@@ -1,8 +1,8 @@
-<h1 align="center">Terraform Na Prática - #TNP </h1>
+<h1 align="center">Terraform na Prática - #TNP </h1>
 
 <h2 align="center">Um curso sobre Terraform totalmente em português brasileiro 🇧🇷</h2>
 
-<p align="center"> O primeiro módulo está sendo gravado em vídeo e postado no <a href="https://www.youtube.com/playlist?list=PLVGIivuHGmJpyciRgdZ-x4avdzlsdCTmH">Youtube</a>.</p>
+<p align="center"> O primeiro módulo está sendo gravado em vídeo e será postado no <a href="https://www.youtube.com/playlist?list=PLVGIivuHGmJpyciRgdZ-x4avdzlsdCTmH">Youtube</a>.</p>
 
 > **Autor: [Igor Souza](https://twitter.com/igordcsouza)**
 
@@ -41,7 +41,7 @@
 
 ---
 
-## Como contribuir
+## Como Contribuir
 
 Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md)
 
